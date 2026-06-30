@@ -1,0 +1,15 @@
+{
+  "player": {
+    "name": "Hero",
+    "health": 9,
+    "max_health": 20,
+    "inventory": [
+      "rusty dagger"
+    ],
+    "location": "tavern_common_room"
+  },
+  "world": {
+    "time_of_day": "Night",
+    "current_room_description": "A warm, dimly lit tavern common room, filled with the aroma of stale ale and woodsmoke. A few patrons huddle by a crackling fireplace, and a tired-looking barkeep polishes glasses behind a worn wooden counter."
+  }
+}
